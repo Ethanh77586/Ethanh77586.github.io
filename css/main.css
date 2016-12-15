@@ -47,6 +47,6 @@ ul.posts li {
     border-style:dotted;
 }
 .head{
-    font-style:"Sans-Serif"
-    color:"White"
+    font-style:'Sans-Serif';
+    color:White;
 }
